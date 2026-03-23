@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <EdB.PC.AddParentChild.Header.AddParent>Ebeveyn Ekle</EdB.PC.AddParentChild.Header.AddParent>
+    <EdB.PC.AddParentChild.Error.ParentRequired>Bir ebeveyn seçmelisiniz</EdB.PC.AddParentChild.Error.ParentRequired>
+    <EdB.PC.AddParentChild.Header.AddChild>Çocuk Ekle</EdB.PC.AddParentChild.Header.AddChild>
+    <EdB.PC.AddParentChild.Error.ChildRequired>Bir çocuk seçmelisiniz</EdB.PC.AddParentChild.Error.ChildRequired>
+    <EdB.PC.AddParentChild.Header.SelectColonist>Kolonist Seçin</EdB.PC.AddParentChild.Header.SelectColonist>
+    <EdB.PC.AddParentChild.Header.SelectWorldPawn>Dünyadan Başka Bir Karakter Seçin</EdB.PC.AddParentChild.Header.SelectWorldPawn>
+    <EdB.PC.AddParentChild.Header.CreateTemporaryPawn>İki diğer karakteri birbirine bağlamak için geçici bir karakter oluşturun</EdB.PC.AddParentChild.Header.CreateTemporaryPawn>
+    <EdB.PC.AddParentChild.NewHiddenCharacter>Yeni Geçici Karakter</EdB.PC.AddParentChild.NewHiddenCharacter>
+    <EdB.PC.AddParentChild.Temporary>Geçici</EdB.PC.AddParentChild.Temporary>
+    <EdB.PC.AddParentChild.Colony>Koloni</EdB.PC.AddParentChild.Colony>
+    <EdB.PC.AddParentChild.World>Dünya</EdB.PC.AddParentChild.World>
+
+    <EdB.PC.AddRelationship.Header.Relationship>İlişkiyi Seçin</EdB.PC.AddRelationship.Header.Relationship>
+    <EdB.PC.AddRelationship.Header.Source>Bir Karakter Seçin</EdB.PC.AddRelationship.Header.Source>
+    <EdB.PC.AddRelationship.Header.Target>Hedef Bir Karakter Seçin</EdB.PC.AddRelationship.Header.Target>
+    <EdB.PC.AddRelationship.Error.RelationshipRequired>Bir ilişki seçmelisiniz</EdB.PC.AddRelationship.Error.RelationshipRequired>
+    <EdB.PC.AddRelationship.Error.SourceRequired>Bir karakter seçmelisiniz</EdB.PC.AddRelationship.Error.SourceRequired>
+    <EdB.PC.AddRelationship.Error.TargetRequired>Bir karakter seçmelisiniz</EdB.PC.AddRelationship.Error.TargetRequired>
+    <EdB.PC.AddRelationship.Compatibility>Uyumluluk Puanı: {0}</EdB.PC.AddRelationship.Compatibility>
+    <EdB.PC.AddRelationship.UnknownCompatibility>Bilinmiyor</EdB.PC.AddRelationship.UnknownCompatibility>
+
+    <EdB.PC.Animals.LabelWithGender>{0}, {1}</EdB.PC.Animals.LabelWithGender>
+    <EdB.PC.Animals.LabelWithoutGender>{0}</EdB.PC.Animals.LabelWithoutGender>
+
+    <EdB.PC.BodyParts.WholeBody>Tüm Vücut</EdB.PC.BodyParts.WholeBody>
+
+    <EdB.PC.Common.Add>Ekle</EdB.PC.Common.Add>
+    <EdB.PC.Common.Next>Sonraki</EdB.PC.Common.Next>
+    <EdB.PC.Common.NoOptionSelected>Hiçbiri</EdB.PC.Common.NoOptionSelected>
+    <EdB.PC.Common.NoOptionAvailable>Hiçbiri</EdB.PC.Common.NoOptionAvailable>
+    <EdB.PC.Common.Cancel>İptal</EdB.PC.Common.Cancel>
+    <EdB.PC.Common.Close>Kapat</EdB.PC.Common.Close>
+    <EdB.PC.Common.Confirm>Onayla</EdB.PC.Common.Confirm>
+    <EdB.PC.Common.Default>Varsayılan</EdB.PC.Common.Default>
+    <EdB.PC.Common.Select>Seç</EdB.PC.Common.Select>
+
+    <EdB.PC.Dialog.Abilities.Header>Yetenekleri Seç</EdB.PC.Dialog.Abilities.Header>
+    <EdB.PC.Dialog.Abilties.PsycastLevelLabel>Psikast Seviyesi: {0}</EdB.PC.Dialog.Abilties.PsycastLevelLabel>
+
+    <EdB.PC.Dialog.Backstory.Filter.Add>Filtre Ekle</EdB.PC.Dialog.Backstory.Filter.Add>
+    <EdB.PC.Dialog.Backstory.Filter.NoDisabledWorkTypes>Devre Dışı Bırakılmış İş Türleri Yok</EdB.PC.Dialog.Backstory.Filter.NoDisabledWorkTypes>
+    <EdB.PC.Dialog.Backstory.Filter.NoSkillPenalties>Becerilerde Cezalar Yok</EdB.PC.Dialog.Backstory.Filter.NoSkillPenalties>
+    <EdB.PC.Dialog.Backstory.Filter.SkillBonus>Bonus: {0} +{1}</EdB.PC.Dialog.Backstory.Filter.SkillBonus>
+    <EdB.PC.Dialog.Backstory.Filter.SkillBonusFull>Becerilerde Bonus: {0}, +{1} veya daha iyisi</EdB.PC.Dialog.Backstory.Filter.SkillBonusFull>
+    <EdB.PC.Dialog.Backstory.Filter.MatchesFaction>Sadece Fraksiyon Geçmişleri</EdB.PC.Dialog.Backstory.Filter.MatchesFaction>
+
+    <EdB.PC.Dialog.BodyPart.Header>Bir konum seçin</EdB.PC.Dialog.BodyPart.Header>
+    <EdB.PC.Dialog.BodyPart.Error.Required>Bir konum seçmelisiniz</EdB.PC.Dialog.BodyPart.Error.Required>
+
+    <EdB.PC.Dialog.Faction.ChooseFaction>Bir Fraksiyon Seçin</EdB.PC.Dialog.Faction.ChooseFaction>
+    <EdB.PC.Dialog.Faction.LeaderFaction>Lider: {0}</EdB.PC.Dialog.Faction.LeaderFaction>
+    <EdB.PC.Dialog.Faction.NumberedFaction>{1}: {0}</EdB.PC.Dialog.Faction.NumberedFaction>
+    <EdB.PC.Dialog.Faction.Random>Rastgele</EdB.PC.Dialog.Faction.Random>
+    <EdB.PC.Dialog.Faction.RandomFaction>Rastgele: {0}</EdB.PC.Dialog.Faction.RandomFaction>
+    <EdB.PC.Dialog.Faction.SelectLeaderFaction>Bu karakteri belirli bir fraksiyonun lideri yapın</EdB.PC.Dialog.Faction.SelectLeaderFaction>
+    <EdB.PC.Dialog.Faction.SelectRandomFaction>Bu karakteri rastgele bir fraksiyona yerleştirin</EdB.PC.Dialog.Faction.SelectRandomFaction>
+    <EdB.PC.Dialog.Faction.SelectSpecificFaction>Bu karakter için belirli bir fraksiyon seçin</EdB.PC.Dialog.Faction.SelectSpecificFaction>
+
+    <EdB.PC.Dialog.FavoriteColor.Header>Favori rengini seç</EdB.PC.Dialog.FavoriteColor.Header>
+
+    <EdB.PC.Dialog.Implant.Alert>Diğer seçimlerle çakışan en az bir implant seçtiniz. Kurulmayacak:\n{0}</EdB.PC.Dialog.Implant.Alert>
+    <EdB.PC.Dialog.Implant.Alert.Item>- {0}, {1}</EdB.PC.Dialog.Implant.Alert.Item>
+    <EdB.PC.Dialog.Implant.Button.Confirm>Uygula</EdB.PC.Dialog.Implant.Button.Confirm>
+    <EdB.PC.Dialog.Implant.Conflict>Bu implant aşağıdakiyle çakıştığı için kurulamaz:\n\n- {0}, {1}</EdB.PC.Dialog.Implant.Conflict>
+    <EdB.PC.Dialog.Implant.Header>İmplant ve Biyonikleri Seçin</EdB.PC.Dialog.Implant.Header>
+    <EdB.PC.Dialog.Implant.InstallImplantLabel>İmplant {0}</EdB.PC.Dialog.Implant.InstallImplantLabel>
+    <EdB.PC.Dialog.Implant.RequiredImplantMessage>Bu implant, seçtiğiniz diğer implantlardan biri için zorunlu olduğu için eklenmelidir</EdB.PC.Dialog.Implant.RequiredImplantMessage>
+    <EdB.PC.Dialog.Implant.LevelLabel>{0}:</EdB.PC.Dialog.Implant.LevelLabel>
+
+    <EdB.PC.Dialog.Injury.Header>Durumu Seçin</EdB.PC.Dialog.Injury.Header>
+    <EdB.PC.Dialog.Injury.Error.Required>Bir durum seçmelisiniz</EdB.PC.Dialog.Injury.Error.Required>
+    <EdB.PC.Dialog.Injury.OldInjury.Label>{0} ({1})</EdB.PC.Dialog.Injury.OldInjury.Label>
+
+    <EdB.PC.Dialog.ManageApparel.AllLayers>Tüm Katmanlar</EdB.PC.Dialog.ManageApparel.AllLayers>
+    <EdB.PC.Dialog.ManageApparel.AddApparelButton>Ekle</EdB.PC.Dialog.ManageApparel.AddApparelButton>
+    <EdB.PC.Dialog.ManageApparel.UpdateApparelButton>Güncelle</EdB.PC.Dialog.ManageApparel.UpdateApparelButton>
+
+    <EdB.PC.Dialog.PawnPreset.Button.Load>Yükle</EdB.PC.Dialog.PawnPreset.Button.Load>
+    <EdB.PC.Dialog.PawnPreset.Button.Save>Kaydet</EdB.PC.Dialog.PawnPreset.Button.Save>
+    <EdB.PC.Dialog.PawnPreset.DeleteTooltip>Bu Kolonisti Sil</EdB.PC.Dialog.PawnPreset.DeleteTooltip>
+    <EdB.PC.Dialog.PawnPreset.ConfirmDelete>Bu kolonisti silmek istediğinizden emin misiniz?</EdB.PC.Dialog.PawnPreset.ConfirmDelete>
+    <EdB.PC.Dialog.PawnPreset.Loaded>Yüklenen karakter {0}</EdB.PC.Dialog.PawnPreset.Loaded>
+    <EdB.PC.Dialog.PawnPreset.Error.Failed>Karakter yüklenemedi. Gerekli tüm modların etkin olduğunu kontrol edin.</EdB.PC.Dialog.PawnPreset.Error.Failed>
+    <EdB.PC.Dialog.PawnPreset.Error.PreAlpha13NotSupported>Ön-alfa 13 sürümlerinde kaydedilen kolonistler desteklenmiyor.</EdB.PC.Dialog.PawnPreset.Error.PreAlpha13NotSupported>
+
+    <EdB.PC.Dialog.Preset.Button.Load>Profil Yükle</EdB.PC.Dialog.Preset.Button.Load>
+    <EdB.PC.Dialog.Preset.Button.Save>Profil Kaydet</EdB.PC.Dialog.Preset.Button.Save>
+    <EdB.PC.Dialog.Preset.ConfirmDelete>Bu profili silmek istediğinizden emin misiniz?</EdB.PC.Dialog.Preset.ConfirmDelete>
+    <EdB.PC.Dialog.Preset.DeleteTooltip>Bu profili sil</EdB.PC.Dialog.Preset.DeleteTooltip>
+    <EdB.PC.Dialog.Preset.Error.EquipmentFailed>Profilden ekipman yüklenemedi.</EdB.PC.Dialog.Preset.Error.EquipmentFailed>
+    <EdB.PC.Dialog.Preset.Error.Failed>Profilden kolonistler yüklenemedi. Gerekli tüm modların etkin olduğunu kontrol edin.</EdB.PC.Dialog.Preset.Error.Failed>
+    <EdB.PC.Dialog.Preset.Error.PartialSaveFailure>Profil kaydedilirken sorunlar oluştu. Bazı özelleştirmeler dahil edilmedi.</EdB.PC.Dialog.Preset.Error.PartialSaveFailure>
+    <EdB.PC.Dialog.Preset.Error.PreAlpha13NotSupported>Ön-alfa 13 sürümlerinden kaydedilen profiller desteklenmiyor.</EdB.PC.Dialog.Preset.Error.PreAlpha13NotSupported>
+    <EdB.PC.Dialog.Preset.Error.RelationshipFailed>Profilden özel ilişki yüklenemedi.</EdB.PC.Dialog.Preset.Error.RelationshipFailed>
+    <EdB.PC.Dialog.Preset.Error.SaveFailed>Kaydetme sırasında bir problem oluştu. Bu profili yükleyemeyebilirsiniz.</EdB.PC.Dialog.Preset.Error.SaveFailed>
+    <EdB.PC.Dialog.Preset.Error.ThingDefFailed>Profil tam olarak yüklenemedi. Gerekli tüm modların etkin olduğunu kontrol edin.</EdB.PC.Dialog.Preset.Error.ThingDefFailed>
+    <EdB.PC.Dialog.Preset.Error.NoCharacter>Kaydedilen karakter yüklenemedi. Gerekli tüm modların etkin olduğunu kontrol edin.</EdB.PC.Dialog.Preset.Error.NoCharacter>
+    <EdB.PC.Dialog.Preset.Error.FailedToLoad>{0} numaralı profil yüklenemedi.</EdB.PC.Dialog.Preset.Error.FailedToLoad>
+    <EdB.PC.Dialog.Preset.Loaded>{0} numaralı profil yüklendi</EdB.PC.Dialog.Preset.Loaded>
+
+    <EdB.PC.Dialog.Severity.Header>Bir şiddet seviyesi seçin</EdB.PC.Dialog.Severity.Header>
+    <EdB.PC.Dialog.Severity.Error.Required>Bir şiddet seviyesi seçmelisiniz</EdB.PC.Dialog.Severity.Error.Required>
+    <EdB.PC.Dialog.Severity.OldInjury.Label.2>2 Hasar</EdB.PC.Dialog.Severity.OldInjury.Label.2>
+    <EdB.PC.Dialog.Severity.OldInjury.Label.3>3 Hasar</EdB.PC.Dialog.Severity.OldInjury.Label.3>
+    <EdB.PC.Dialog.Severity.OldInjury.Label.4>4 Hasar</EdB.PC.Dialog.Severity.OldInjury.Label.4>
+    <EdB.PC.Dialog.Severity.OldInjury.Label.5>5 Hasar</EdB.PC.Dialog.Severity.OldInjury.Label.5>
+    <EdB.PC.Dialog.Severity.OldInjury.Label.6>6 Hasar</EdB.PC.Dialog.Severity.OldInjury.Label.6>
+    <EdB.PC.Dialog.Severity.Stage.Label.>{0} {1}</EdB.PC.Dialog.Severity.Stage.Label.>
+
+    <EdB.PC.Dialog.Titles.Header>Bir Unvan Ekleyin</EdB.PC.Dialog.Titles.Header>
+
+    <EdB.PC.Dialog.UnrecoverableError.Header>Kurtarılamaz Hata</EdB.PC.Dialog.UnrecoverableError.Header>
+    <EdB.PC.Dialog.UnrecoverableError.Message>Bir şeyler yanlış gitti ve Hazırlık Kapsamlı olarak kurtarılamadı. Aşağıdaki hata mesajı sorunu belirlemenize yardımcı olabilir:
+    
+    "{0}"</EdB.PC.Dialog.UnrecoverableError.Message>
+
+    <EdB.PC.Equipment.AnimalLabel>{0} {1}</EdB.PC.Equipment.AnimalLabel>
+    <EdB.PC.Equipment.DefaultOption>Varsayılan</EdB.PC.Equipment.DefaultOption>
+    <EdB.PC.Equipment.Type.Animals>Hayvanlar</EdB.PC.Equipment.Type.Animals>
+    <EdB.PC.Equipment.Type.Apparel>Giyim</EdB.PC.Equipment.Type.Apparel>
+    <EdB.PC.Equipment.Type.Buildings>Mobilya</EdB.PC.Equipment.Type.Buildings>
+    <EdB.PC.Equipment.Type.Food>Gıda</EdB.PC.Equipment.Type.Food>
+    <EdB.PC.Equipment.Type.Mechs>Mekanoidler</EdB.PC.Equipment.Type.Mechs>
+    <EdB.PC.Equipment.Type.Medical>Tıbbi</EdB.PC.Equipment.Type.Medical>
+    <EdB.PC.Equipment.Type.Resources>Kaynaklar</EdB.PC.Equipment.Type.Resources>
+    <EdB.PC.Equipment.Type.Weapons>Silahlar</EdB.PC.Equipment.Type.Weapons>
+    <EdB.PC.Equipment.LoadingProgress.Initializing>Başlatılıyor...</EdB.PC.Equipment.LoadingProgress.Initializing>
+    <EdB.PC.Equipment.LoadingProgress.StuffDefs>Malzemeler işleniyor...</EdB.PC.Equipment.LoadingProgress.StuffDefs>
+    <EdB.PC.Equipment.LoadingProgress.ThingDefs>Ögeler işleniyor...</EdB.PC.Equipment.LoadingProgress.ThingDefs>
+    <EdB.PC.Equipment.LoadingProgress.Finished>Tamamlandı</EdB.PC.Equipment.LoadingProgress.Finished>
+    <EdB.PC.Equipment.SelectedEquipment.SpawnType.SpawnsWith>Kolonistlerle birlikte doğar</EdB.PC.Equipment.SelectedEquipment.SpawnType.SpawnsWith>
+    <EdB.PC.Equipment.SelectedEquipment.SpawnType.SpawnsNear>Kolonistlere yakın doğar</EdB.PC.Equipment.SelectedEquipment.SpawnType.SpawnsNear>
+    <EdB.PC.Equipment.SelectedEquipment.SpawnType.Possession>Sahiplik - {0}</EdB.PC.Equipment.SelectedEquipment.SpawnType.Possession>
+    <EdB.PC.Equipment.SelectedEquipment.SpawnType.Animal>Hayvanlar</EdB.PC.Equipment.SelectedEquipment.SpawnType.Animal>
+    <EdB.PC.Equipment.SelectedEquipment.SpawnType.Mech>Mekanoidler</EdB.PC.Equipment.SelectedEquipment.SpawnType.Mech>
+    <EdB.PC.Equipment.SelectedEquipment.OverseenChanceLabel>{0}: {1}%</EdB.PC.Equipment.SelectedEquipment.OverseenChanceLabel>
+    <EdB.PC.Equipment.AvailableEquipment.AllCategoriesOption>Tüm Kategoriler</EdB.PC.Equipment.AvailableEquipment.AllCategoriesOption>
+    <EdB.PC.Equipment.AvailableEquipment.AllModsOption>Tüm Modlar</EdB.PC.Equipment.AvailableEquipment.AllModsOption>
+    <EdB.PC.Equipment.AvailableEquipment.CostLabelAndValue>Maliyet: {0}</EdB.PC.Equipment.AvailableEquipment.CostLabelAndValue>
+    <EdB.PC.Equipment.AvailableEquipment.DefaultSpawnTypeOption>Varsayılan</EdB.PC.Equipment.AvailableEquipment.DefaultSpawnTypeOption>
+    <EdB.PC.Equipment.AvailableEquipment.DefaultStyleOption>Varsayılan</EdB.PC.Equipment.AvailableEquipment.DefaultStyleOption>
+    <EdB.PC.Equipment.AvailableEquipment.GenderLabel>Cinsiyet:</EdB.PC.Equipment.AvailableEquipment.GenderLabel>
+    <EdB.PC.Equipment.AvailableEquipment.HitPointsLabel>Can Puanı:</EdB.PC.Equipment.AvailableEquipment.HitPointsLabel>
+    <EdB.PC.Equipment.AvailableEquipment.MaterialLabel>Malzeme:</EdB.PC.Equipment.AvailableEquipment.MaterialLabel>
+    <EdB.PC.Equipment.AvailableEquipment.MechCategoryLabel>Mekanoidler</EdB.PC.Equipment.AvailableEquipment.MechCategoryLabel>
+    <EdB.PC.Equipment.AvailableEquipment.QualityLabel>Kalite:</EdB.PC.Equipment.AvailableEquipment.QualityLabel>
+    <EdB.PC.Equipment.AvailableEquipment.RandomAnimalLabel>Rastgele Evcil Hayvan</EdB.PC.Equipment.AvailableEquipment.RandomAnimalLabel>
+    <EdB.PC.Equipment.AvailableEquipment.RandomMechLabel>Rastgele Mekanoid</EdB.PC.Equipment.AvailableEquipment.RandomMechLabel>
+    <EdB.PC.Equipment.AvailableEquipment.OverseenChanceLabel>{0}:</EdB.PC.Equipment.AvailableEquipment.OverseenChanceLabel>
+    <EdB.PC.Equipment.AvailableEquipment.SpawnTypeLabel>Doğuş Türü:</EdB.PC.Equipment.AvailableEquipment.SpawnTypeLabel>
+    <EdB.PC.Equipment.AvailableEquipment.StyleLabel>Stil:</EdB.PC.Equipment.AvailableEquipment.StyleLabel>
+
+    <EdB.PC.Error.NotEnoughPoints>Çok fazla puan harcadınız.</EdB.PC.Error.NotEnoughPoints>
+    <EdB.PC.Error.NotEnoughColonists1>En az bir kolonistiniz olmalıdır.</EdB.PC.Error.NotEnoughColonists1>
+    <EdB.PC.Error.NotEnoughColonists>{0} kolonistiniz olmalıdır.</EdB.PC.Error.NotEnoughColonists>
+    <EdB.PC.Error.GameVersion>Prepare Carefully başlatılamadı.
+        
+    Bu, gereken RimWorld sürümünden daha eski bir sürümünü çalıştırdığınızdan kaynaklanabilir.
+    
+    Oyunun {0} sürümünü çalıştırıyorsunuz. Prepare Carefully'nin en az {1} sürümünü çalıştırmanız gerekmektedir.
+        
+    Lütfen sorununuzu düzeltmek için minimum gereksinim duyulan sürüme veya daha yeni bir sürüme güncelleyin.
+    </EdB.PC.Error.GameVersion>
+  
+    <EdB.PC.Error.Initialization>Prepare Carefully başlatılamadı.
+
+    Bu genellikle Prepare Carefully ve başka bir mod arasındaki beklenmedik bir sorundan kaynaklanır, ancak aynı zamanda Prepare Carefully'de bir hata olabilir.
+
+    Bir hatayı bildirmeden önce, sorunu tetikleyen modu belirlemeye çalışın. Eğer çok fazla modunuz varsa, modları devre dışı bırakarak hangisinin soruna neden olduğunu bulana kadar bir böl ve fethet yaklaşımını kullanabilirsiniz.
+    </EdB.PC.Error.Initialization>
+    
+
+    <EdB.PC.Pawn.AgeWithChronological>{0} ({1})</EdB.PC.Pawn.AgeWithChronological>
+    <EdB.PC.Pawn.AgeWithoutChronological>{0}</EdB.PC.Pawn.AgeWithoutChronological>
+    <EdB.PC.Pawn.BodyType.Average>Ortalama</EdB.PC.Pawn.BodyType.Average>
+    <EdB.PC.Pawn.BodyType.Heavyset>Bombeli</EdB.PC.Pawn.BodyType.Heavyset>
+    <EdB.PC.Pawn.BodyType.Hulking>Kocaman</EdB.PC.Pawn.BodyType.Hulking>
+    <EdB.PC.Pawn.BodyType.Oval>Tombul</EdB.PC.Pawn.BodyType.Oval>
+    <EdB.PC.Pawn.BodyType.Thin>Zayıf</EdB.PC.Pawn.BodyType.Thin>
+    <EdB.PC.Pawn.BodyType.Unnamed>Adsız</EdB.PC.Pawn.BodyType.Unnamed>
+    <EdB.PC.Pawn.HiddenPawnDescriptionWithGender>{0}, {1}</EdB.PC.Pawn.HiddenPawnDescriptionWithGender>
+    <EdB.PC.Pawn.HiddenPawnDescriptionNoGender>{0}</EdB.PC.Pawn.HiddenPawnDescriptionNoGender>
+    <EdB.PC.Pawn.HiddenPawnNameFull>Gizli {0}</EdB.PC.Pawn.HiddenPawnNameFull>
+    <EdB.PC.Pawn.HiddenPawnNameShort>Gizli {0}</EdB.PC.Pawn.HiddenPawnNameShort>
+    <EdB.PC.Pawn.HiddenPawnProfession>Bilinmiyor</EdB.PC.Pawn.HiddenPawnProfession>
+    <EdB.PC.Pawn.PawnDescriptionWithGender>{0}, {1}, yaş {2}</EdB.PC.Pawn.PawnDescriptionWithGender>
+    <EdB.PC.Pawn.PawnDescriptionNoGender>{0}, yaş {1}</EdB.PC.Pawn.PawnDescriptionNoGender>
+    <EdB.PC.Pawn.PawnLayer.Accessory>Aksesuar</EdB.PC.Pawn.PawnLayer.Accessory>
+    <EdB.PC.Pawn.PawnLayer.AlienAddonOption>Seçenek {0}</EdB.PC.Pawn.PawnLayer.AlienAddonOption>
+    <EdB.PC.Pawn.PawnLayer.Beard>Sakal</EdB.PC.Pawn.PawnLayer.Beard>
+    <EdB.PC.Pawn.PawnLayer.BodyTattoo>Vücut Dövmesi</EdB.PC.Pawn.PawnLayer.BodyTattoo>
+    <EdB.PC.Pawn.PawnLayer.BodyType>Vücut Türü</EdB.PC.Pawn.PawnLayer.BodyType>
+    <EdB.PC.Pawn.PawnLayer.BottomClothingLayer>Alt Giysi Katmanı</EdB.PC.Pawn.PawnLayer.BottomClothingLayer>
+    <EdB.PC.Pawn.PawnLayer.EyeCovering>Göz Kapatma</EdB.PC.Pawn.PawnLayer.EyeCovering>
+    <EdB.PC.Pawn.PawnLayer.FaceTattoo>Yüz Dövmesi</EdB.PC.Pawn.PawnLayer.FaceTattoo>
+    <EdB.PC.Pawn.PawnLayer.Hair>Saç</EdB.PC.Pawn.PawnLayer.Hair>
+    <EdB.PC.Pawn.PawnLayer.Hat>Şapka</EdB.PC.Pawn.PawnLayer.Hat>
+    <EdB.PC.Pawn.PawnLayer.HeadType>Kafa Türü</EdB.PC.Pawn.PawnLayer.HeadType>
+    <EdB.PC.Pawn.PawnLayer.MiddleClothingLayer>Orta Giysi Katmanı</EdB.PC.Pawn.PawnLayer.MiddleClothingLayer>
+    <EdB.PC.Pawn.PawnLayer.Pants>Pantolon</EdB.PC.Pawn.PawnLayer.Pants>
+    <EdB.PC.Pawn.PawnLayer.TopClothingLayer>Üst Giysi Katmanı</EdB.PC.Pawn.PawnLayer.TopClothingLayer>
+    <EdB.PC.Pawn.TemporaryPawnNameFull>Geçici {0}</EdB.PC.Pawn.TemporaryPawnNameFull>
+    <EdB.PC.Pawn.TemporaryPawnNameShort>Geçici {0}</EdB.PC.Pawn.TemporaryPawnNameShort>
+
+    <EdB.PC.Page.Button.LoadPreset>Profil Yükle</EdB.PC.Page.Button.LoadPreset>
+    <EdB.PC.Page.Button.PrepareCarefully>Prepare Carefully</EdB.PC.Page.Button.PrepareCarefully>
+    <EdB.PC.Page.Button.SavePreset>Profil Kaydet</EdB.PC.Page.Button.SavePreset>
+    <EdB.PC.Page.ConfirmExit>Prepare Carefully'yi kullanmadan çıkmak istediğinizden emin misiniz? Yaptığınız tüm değişiklikler kaybolacak.</EdB.PC.Page.ConfirmExit>
+    <EdB.PC.Page.ConfirmStart>Özelleştirmelerinizle Bitmiş Olduğunuzdan Emin Misiniz? Başlamaya Hazır Olduğunuzu Onaylayın!</EdB.PC.Page.ConfirmStart>
+    <EdB.PC.Page.Points.CostSummary.Total>Toplam Harcanan: {0}</EdB.PC.Page.Points.CostSummary.Total>
+    <EdB.PC.Page.Points.CostSummary.Equipment>Donanım: {0}</EdB.PC.Page.Points.CostSummary.Equipment>
+    <EdB.PC.Page.Points.CostSummary.Apparel>Giyim: {0}</EdB.PC.Page.Points.CostSummary.Apparel>
+    <EdB.PC.Page.Points.CostSummary.Colonist>{0}: {1}</EdB.PC.Page.Points.CostSummary.Colonist>
+    <EdB.PC.Page.Points.CostSummary.Implants>Implantlar: {0}</EdB.PC.Page.Points.CostSummary.Implants>
+    <EdB.PC.Page.Points.CostSummary.Possessions>Eşyalar: {0}</EdB.PC.Page.Points.CostSummary.Possessions>
+    <EdB.PC.Page.Points.DisablePoints>Puan Sınırlarını Devre Dışı Bırak</EdB.PC.Page.Points.DisablePoints>
+    <EdB.PC.Page.Points.NotEnoughPoints>Çok fazla puan harcadınız.</EdB.PC.Page.Points.NotEnoughPoints>
+    <EdB.PC.Page.Points.Remaining>Kalan Puan: {0}</EdB.PC.Page.Points.Remaining>
+    <EdB.PC.Page.Points.ScenarioPoints>Bu senaryo için rastgele oluşturulan başlangıç kolonistleri ve kaynaklar {0} puan değerindeydi.</EdB.PC.Page.Points.ScenarioPoints>
+    <EdB.PC.Page.Points.Spent>Harcanan Puan: {0}</EdB.PC.Page.Points.Spent>
+    <EdB.PC.Page.Points.Unlimited>Sınırsız</EdB.PC.Page.Points.Unlimited>
+    <EdB.PC.Page.Points.UsePoints>Puan Sınırlarını Kullan</EdB.PC.Page.Points.UsePoints>
+    <EdB.PC.Page.Points.UsePoints.Tip>Puan sınırlarını etkinleştirirseniz, beceriler, ek kolonistler ve ekipmanlar için sabit sayıdaki puandan harcayarak daha dengeli bir başlangıç yapabilirsiniz. Başlangıç puanınız, seçtiğiniz senaryo için rastgele oluşturulan karakterlerin ve kaynakların puan maliyetiyle aynı olur.
+
+    Puan sınırlarını devre dışı bırakırsanız, başlangıç kolonistlerinizi herhangi bir kısıtlama olmadan hazırlayabilirsiniz.
+    </EdB.PC.Page.Points.UsePoints.Tip>
+
+    <EdB.PC.Page.Title>Prepare Carefully</EdB.PC.Page.Title>
+
+    <EdB.PC.Panel.Abilities.None>Yetenek yok</EdB.PC.Panel.Abilities.None>
+
+
+    <EdB.PC.Panel.Age.Header>Yaş</EdB.PC.Panel.Age.Header>
+    <EdB.PC.Panel.Age.Label.BiologicalAge>Biyolojik</EdB.PC.Panel.Age.Label.BiologicalAge>
+    <EdB.PC.Panel.Age.Label.ChronologicalAge>Kronolojik</EdB.PC.Panel.Age.Label.ChronologicalAge>
+    <EdB.PC.Panel.Age.Label.Years>Yıl</EdB.PC.Panel.Age.Label.Years>
+    <EdB.PC.Panel.Age.Label.Days>Gün</EdB.PC.Panel.Age.Label.Days>
+    <EdB.PC.Panel.Age.Biological>Biyolojik Yaş</EdB.PC.Panel.Age.Biological>
+    <EdB.PC.Panel.Age.Chronological>Kronolojik Yaş</EdB.PC.Panel.Age.Chronological>
+
+        <EdB.PC.Panel.Appearance.ApparelConflict.Description>Seçilen {0} ile aşağıdaki giysileri giyemez:</EdB.PC.Panel.Appearance.ApparelConflict.Description>
+        <EdB.PC.Panel.Appearance.ApparelConflict.LineItem> - {0}</EdB.PC.Panel.Appearance.ApparelConflict.LineItem>
+        <EdB.PC.Panel.Appearance.NoneSelected>Hiçbiri</EdB.PC.Panel.Appearance.NoneSelected>
+        <EdB.PC.Panel.Appearance.WorldPawnAlert>Oyun genellikle dünya karakterlerini "yeniden giydirir", onları haritaya yerlemeden önce yeni kıyafetler ve ekipmanlar verir. Eğer özel bir giysi seçerseniz, bu özelleştirmeler muhtemelen karakterle karşılaştığınızda kaybolacaktır.
+          
+        Bu durum, fraksiyon liderleri için geçerli değildir. Eğer bu karakteri bir fraksiyon lideri yaparsanız, kıyafet özelleştirmeleriniz korunacaktır.</EdB.PC.Panel.Appearance.WorldPawnAlert>
+        
+
+        <EdB.PC.Panel.AvailableEquipment.AddButtonLabel>Ekle</EdB.PC.Panel.AvailableEquipment.AddButtonLabel>
+        <EdB.PC.Panel.AvailableEquipment.Add>Ekipman Ekle</EdB.PC.Panel.AvailableEquipment.Add>
+        <EdB.PC.Panel.AvailableEquipment.Materials.All>Tüm Malzemeler</EdB.PC.Panel.AvailableEquipment.Materials.All>
+        <EdB.PC.Panel.AvailableEquipment.Materials.None>Malzeme Yok</EdB.PC.Panel.AvailableEquipment.Materials.None>
+        
+        <EdB.PC.Panel.Backstory.FavoriteColorLabel>Favori Renk:</EdB.PC.Panel.Backstory.FavoriteColorLabel>
+
+        <EdB.PC.Panel.ColonyPawnList.Title>Koloni</EdB.PC.Panel.ColonyPawnList.Title>
+        
+  
+        <EdB.PC.Panel.Health.Error.MustSelectBodyPart>Bir konum seçmelisiniz</EdB.PC.Panel.Health.Error.MustSelectBodyPart>
+        <EdB.PC.Panel.Health.Error.MustSelectImplant>Bir implant işlemi seçmelisiniz</EdB.PC.Panel.Health.Error.MustSelectImplant>
+        <EdB.PC.Panel.Health.Error.MustSelectOption>Bir seçenek seçmelisiniz</EdB.PC.Panel.Health.Error.MustSelectOption>
+        <EdB.PC.Panel.Health.Error.MustSelectSeverity>Bir şiddet seviyesi seçmelisiniz</EdB.PC.Panel.Health.Error.MustSelectSeverity>
+        <EdB.PC.Panel.Health.HediffTypeInjury>Bir yaralanma veya sağlık durumu ekleyin</EdB.PC.Panel.Health.HediffTypeInjury>
+        <EdB.PC.Panel.Health.HediffTypeImplant>İmplantları ve biyonikleri yönetin</EdB.PC.Panel.Health.HediffTypeImplant>
+        <EdB.PC.Panel.Health.InjuryLabel.Stage>{0}, {1}</EdB.PC.Panel.Health.InjuryLabel.Stage>
+        <EdB.PC.Panel.Health.InjuryLabel.Severity>{0}</EdB.PC.Panel.Health.InjuryLabel.Severity>
+        <EdB.PC.Panel.Health.None>Yaralanma, durum veya implant bulunmuyor</EdB.PC.Panel.Health.None>
+        <EdB.PC.Panel.Health.SelectBodyPart>Bir konum seçin</EdB.PC.Panel.Health.SelectBodyPart>
+        <EdB.PC.Panel.Health.SelectSeverity>Bir şiddet seviyesi seçin</EdB.PC.Panel.Health.SelectSeverity>
+        
+
+        <EdB.PC.Panel.Incapable.None>Hiçbiri</EdB.PC.Panel.Incapable.None>
+        <EdB.PC.Panel.Incapable.Warning>Vanilla oyunda gerekli kabul edilen aşağıdaki iş türlerini yapabilecek hiçbir piyonunuz yok.
+        
+        {0}
+        
+        Kolonistlerinizle oyunu oynayabilirsiniz, ancak senaryoyu başlatmadan önce onay istenecektir.</EdB.PC.Panel.Incapable.Warning>
+        <EdB.PC.Panel.Incapable.WarningItem> - {0}</EdB.PC.Panel.Incapable.WarningItem>
+        
+
+        <EdB.PC.Panel.LoadSave.Load>Karakteri Yükle</EdB.PC.Panel.LoadSave.Load>
+        <EdB.PC.Panel.LoadSave.Save>Karakteri Kaydet</EdB.PC.Panel.LoadSave.Save>
+        
+
+        <EdB.PC.Panel.PawnList.Add>Ekle...</EdB.PC.Panel.PawnList.Add>
+        <EdB.PC.Panel.PawnList.Delete.Confirm>Bu karakteri kaldırmak istediğinizden emin misiniz?</EdB.PC.Panel.PawnList.Delete.Confirm>
+        <EdB.PC.Panel.PawnList.Error.FactionPawnFailed>Yeni karakter oluşturulmaya çalışılırken beklenmeyen bir hata oluştu</EdB.PC.Panel.PawnList.Error.FactionPawnFailed>
+        <EdB.PC.Panel.PawnList.Error.MustSelectFaction>Bir fraksiyon seçmelisiniz</EdB.PC.Panel.PawnList.Error.MustSelectFaction>
+        <EdB.PC.Panel.PawnList.Load>Yükle...</EdB.PC.Panel.PawnList.Load>
+        <EdB.PC.Panel.PawnList.PawnCount>({0})</EdB.PC.Panel.PawnList.PawnCount>
+        <EdB.PC.Panel.PawnList.SelectFaction>Bir Fraksiyon Şablonundan Seçin</EdB.PC.Panel.PawnList.SelectFaction>
+        
+
+        <EdB.PC.Panel.Randomize.Tip.DevelopmentalStage>{0}
+            Gelişimsel aşamanın yaş aralığında bir kolonist oluşturmak için rastgele düğmesine tıklayın</EdB.PC.Panel.Randomize.Tip.DevelopmentalStage>
+            <EdB.PC.Panel.Randomize.Tip.Xenotype>{0}
+            Bu xenotip ile bir kolonist oluşturmak için rastgele düğmesine tıklayın</EdB.PC.Panel.Randomize.Tip.Xenotype>
+            
+            <EdB.PC.Panel.RelationshipsOther.Title>Diğer İlişkiler</EdB.PC.Panel.RelationshipsOther.Title>
+            
+
+            <EdB.PC.Panel.RelationshipsParentChild.Title>Ebeveyn, Çocuk ve Kardeş İlişkileri</EdB.PC.Panel.RelationshipsParentChild.Title>
+
+            <EdB.PC.Panel.SelectedEquipment.Remove>Donanımı Kaldır</EdB.PC.Panel.SelectedEquipment.Remove>
+            
+            <EdB.PC.Panel.Skills.ResetTip>Tüm beceri ve tutkuları orijinal değerlerine sıfırlayın</EdB.PC.Panel.Skills.ResetTip>
+            <EdB.PC.Panel.Skills.ClearTip>Tüm beceri ve tutkuları en düşük seviyelere getirerek temizleyin</EdB.PC.Panel.Skills.ClearTip>
+            
+            <EdB.PC.Panel.Titles.Header>Ünvanlar</EdB.PC.Panel.Titles.Header>
+            <EdB.PC.Panel.Titles.None>Hiçbir ünvan yok</EdB.PC.Panel.Titles.None>
+            <EdB.PC.Panel.Apparel.ApparelLocked>Bu karakter kıyafet giyemez</EdB.PC.Panel.Apparel.ApparelLocked>
+            
+  
+            <EdB.PC.Panel.Traits.None>Özellik yok</EdB.PC.Panel.Traits.None>
+            <EdB.PC.Panel.Traits.Tip.Conflict>{0}\n\nÇatışıyor:</EdB.PC.Panel.Traits.Tip.Conflict>
+            <EdB.PC.Panel.Traits.Tip.Conflict.List.1> - {0}</EdB.PC.Panel.Traits.Tip.Conflict.List.1>
+            <EdB.PC.Panel.Traits.Tip.Conflict.List.2> - {0}\n - {1}</EdB.PC.Panel.Traits.Tip.Conflict.List.2>
+            <EdB.PC.Panel.Traits.Tip.Conflict.List.Many> - {0}\n{1}</EdB.PC.Panel.Traits.Tip.Conflict.List.Many>
+            <EdB.PC.Panel.Traits.Tip.Conflict.List.Last> - {0}\n - {1}</EdB.PC.Panel.Traits.Tip.Conflict.List.Last>
+            
+            <EdB.PC.TabView.Animals.Title>Hayvanlar</EdB.PC.TabView.Animals.Title>
+            <EdB.PC.TabView.Equipment.Title>Donanım</EdB.PC.TabView.Equipment.Title>
+            <EdB.PC.TabView.Pawns.Title>Karakterler</EdB.PC.TabView.Pawns.Title>
+            <EdB.PC.TabView.Relationships.Title>İlişkiler</EdB.PC.TabView.Relationships.Title>
+            
+            <EdB.PC.Panel.WorldPawnList.Title>Dünya</EdB.PC.Panel.WorldPawnList.Title>
+            
+
+
+
+</LanguageData>

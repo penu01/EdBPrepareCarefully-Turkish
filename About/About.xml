@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Prepare Carefully Türkçe</name>
+  <author>penu</author>
+  <packageId>penu.PrepareCarefully.turkish</packageId>
+  <url></url>
+  <supportedVersions>
+    <li>1.1</li>
+    <li>1.2</li>
+    <li>1.3</li>
+    <li>1.4</li>
+    <li>1.5</li>
+    <li>1.6</li>
+  </supportedVersions>
+  <description>
+  Türkçe Çeviri
+</description>
+</ModMetaData>
